@@ -1,0 +1,6 @@
+- [Ruth Angus' Research Expections](https://ruthangus.github.io/)
+- [Masters and Kreeger's Ten simple rules for developing a mentor–mentee expectations document](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005709)
+- [Christina Hedges' Astronomy Workflow](https://christinahedges.github.io/astronomy_workflow/)
+- [Scott Taylor's Opportunities](https://www.colorado.edu/lab/taylor/opportunities)
+- [Dan Larremore's Lab Manual](https://larremorelab.github.io/manual/)
+- [AAS's Careers in Astronomy](https://aas.org/careers/career-in-astronomy)
