@@ -4,3 +4,4 @@
 - [Scott Taylor's Opportunities](https://www.colorado.edu/lab/taylor/opportunities)
 - [Dan Larremore's Lab Manual](https://larremorelab.github.io/manual/)
 - [AAS's Careers in Astronomy](https://aas.org/careers/career-in-astronomy)
+- [Andy Casey's Research Expectations](http://astrowizici.st/research/expectations/)

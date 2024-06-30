@@ -4,6 +4,7 @@
 - take vacation 
 - prioritize health
 - individual responsibility
+- semiannual (at least) check-ins
 
 
 
